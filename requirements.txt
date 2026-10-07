@@ -18,4 +18,4 @@ pypdf
 sentence-transformers
 torch
 
-duckduckgo-search
+ddgs
