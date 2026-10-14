@@ -8,6 +8,20 @@ An agentic AI platform for document-grounded reasoning, Retrieval-Augmented Gene
 
 The application maintains **independent chat threads**, allowing each conversation to have its own document context and conversation history.
 
+## Application Screenshots
+
+### Chat Interface and Web Search
+
+![Live Search and Chat Interface](assets/LiveSearch.png)
+
+### PDF Question Answering — RAG
+
+![PDF-based Retrieval-Augmented Generation](assets/rag.png)
+
+### Agentic Tool Integration
+
+![Agentic Tools: Search, Stock, and Calculator](assets/tools.png)
+
 ## Key Features
 
 - 📄 **PDF Question Answering** using Retrieval-Augmented Generation (RAG)
